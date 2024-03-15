@@ -23,7 +23,7 @@ export default function Home() {
       />
       <div className="h-[40rem] w-full bg-black flex flex-col items-center justify-center overflow-hidden rounded-md ">
         <h1 className="md:text-4xl text-2xl lg:text-7xl font-bold text-center text-slate-400 relative z-20">
-          Hi there, I'm <span className="text-slate-200">Naveen Ben</span>! 👋
+          Hi there, I&apos;m <span className="text-slate-200">Naveen Ben</span>! 👋
         </h1>
         <div className="w-[40rem] h-40 relative ">
           <div className="absolute inset-x-40 top-0 bg-gradient-to-r from-transparent via-indigo-500 to-transparent h-[2px] w-4/5 blur-sm" />
