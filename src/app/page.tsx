@@ -25,7 +25,7 @@ export default function Home() {
         <h1 className="flex flex-row md:text-4xl text-2xl lg:text-7xl font-bold text-center text-slate-400 relative z-20">
           Hi there, I&apos;m <span className="text-slate-200">Naveen Ben</span>!
           <div
-          className="animate-bounce  bottom-0 right-0 z-0 text-6xl text-sky-500"
+          className="animate-bounce  bottom-0 right-0 z-0  text-sky-500"
           >👋</div>
         </h1>
         <div className="w-[40rem] h-40 relative animate-pulse ">
